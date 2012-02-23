@@ -27,7 +27,7 @@
         </activity>
 
 
-        <!-- リストアクティビティの定義 -->
+        <!-- リストアクティビティの定義AAA -->
         <activity
             android:label="@string/app_name"
             android:name=".ListActivity" >
