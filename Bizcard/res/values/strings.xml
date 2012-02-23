@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bizcard</string>
+    <string name="person_name">名前</string>
+    <string name="company_name">会社</string>
+    <string name="organization_name">組織</string>
+    <string name="position_name">役職</string>
+    <string name="zip_code">郵便番号</string>
+    <string name="address">住所</string>
+    <string name="tel1">電話1</string>
+    <string name="tel2">電話2</string>
+    <string name="mail">メール</string>
+    <string name="required">必須</string>
+    <string name="map">地図</string>
+    <string name="map_satellite">衛星写真</string>
+    <string name="current_location_on">現在地を中央に表示</string>
+    <string name="current_location_off">現在地を中央に表示</string>
+
+</resources>
