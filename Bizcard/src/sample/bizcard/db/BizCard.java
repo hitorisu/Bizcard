@@ -3,7 +3,7 @@ package sample.bizcard.db;
 import java.io.Serializable;
 
 @SuppressWarnings("serial")
-public class Bizcard implements Serializable {
+public class BizCard implements Serializable {
 
 	// テーブル名
 	public static final String TABLE_NAME = "biz_card";
